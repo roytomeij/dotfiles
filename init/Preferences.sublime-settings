@@ -1,41 +1,65 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
-	"default_encoding": "UTF-8",
-	"default_line_ending": "unix",
-	"detect_indentation": false,
-	"draw_white_space": "all",
-	"ensure_newline_at_eof_on_save": false,
-	"file_exclude_patterns":
-	[
-		".DS_Store",
-		"Desktop.ini",
-		"*.pyc",
-		"._*",
-		"Thumbs.db",
-		".Spotlight-V100",
-		".Trashes"
-	],
-	"folder_exclude_patterns":
-	[
-		".git",
-		"node_modules"
-	],
+	"atomic_save": false,
+	"auto_complete": false,
+	"auto_indent": true,
+	"auto_match_enabled": true,
+	"caret_style": "smooth",
+	"color_scheme": "Packages/Color Scheme - Default/Blackboard.tmTheme",
+	"default_line_ending": "system",
+	"detect_indentation": true,
+	"dictionary": "Packages/Language - English/en_US.dic",
+	"draw_centered": false,
+	"draw_indent_guides": true,
+	"draw_minimap_border": false,
+	"draw_white_space": "selection",
+	"ensure_newline_at_eof_on_save": true,
+	"fallback_encoding": "Western (Windows 1252)",
+	"find_selected_text": true,
 	"font_face": "Monaco",
-	"font_size": 13,
-	"highlight_modified_tabs": true,
-	"hot_exit": false,
-	"line_padding_bottom": 5,
+	"font_options":
+	[
+	],
+	"font_size": 14.0,
+	"gutter": true,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Package Control",
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active",
+		"draw_stack",
+		"normal_stippled",
+		"stack_stippled",
+		"active_stippled"
+	],
+	"indent_subsequent_lines": true,
+	"line_numbers": true,
+	"line_padding_bottom": 0,
+	"line_padding_top": 0,
 	"match_brackets": true,
-	"match_brackets_angle": true,
-	"remember_open_files": false,
+	"match_brackets_angle": false,
+	"match_brackets_braces": true,
+	"match_brackets_content": true,
+	"match_brackets_square": true,
+	"match_tags": true,
 	"rulers":
 	[
-		80
 	],
-	"show_encoding": true,
-	"show_line_endings": true,
+	"save_on_focus_lost": false,
+	"scroll_past_end": true,
+	"shift_tab_unindent": false,
+	"spell_check": false,
+	"tab_completion": false,
 	"tab_size": 2,
-	"translate_tabs_to_spaces": false,
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true,
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": true
+	"use_tab_stops": true,
+	"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?",
+	"word_wrap": false,
+	"wrap_width": 0
 }
